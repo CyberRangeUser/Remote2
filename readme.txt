@@ -1,4 +1,5 @@
 === Twenty Twenty-Five ===
+añadiendo segunda línea
 Contributors: wordpressdotorg
 Requires at least: 6.7
 Tested up to: 6.7
